@@ -11,7 +11,7 @@ function Menu() {
        <div className="bg-gray-400 px-10 py-5">
         <Header />
       </div>
-      <BannerTitle secondMenu=' ' title='Le menu du restaurant' menu=' menu' />
+      <BannerTitle secondMenu=' ' title='Notre Menu' menu=' menu' />
       <ListDish />
       <MenuPrice />
       <Footer />  
